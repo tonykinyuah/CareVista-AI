@@ -1,0 +1,16 @@
+# Care Vista 🏥
+### *Clinical Intelligence at the Speed of Thought*
+
+**Care Vista** is a next-generation clinical intelligence platform designed to bridge the gap between complex medical data and bedside action. By leveraging the **Gemini 3** family’s multimodal reasoning and massive context window, Care Vista transforms fragmented data into structured, actionable **Nursing Care Plans (ADPIE)**.
+
+---
+
+## ✨ Key Features
+* **Multimodal Data Synthesis:** Ingests unstructured patient notes, genetic data, and imaging.
+* **FHIR Integration:** Native support for complex FHIR bundles.
+* **Automated ADPIE Generation:** Instantly generates Assessment, Diagnosis, Planning, Implementation, and Evaluation frameworks.
+
+## 🛠 Tech Stack
+* **AI Engine:** Gemini 3 Flash
+* **Data Standard:** HL7® FHIR®
+* **Cloud:** Google Cloud Vertex AI
